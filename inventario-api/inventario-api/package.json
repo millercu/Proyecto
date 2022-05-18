@@ -1,0 +1,17 @@
+{
+  "name": "inventario-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "mongodb": "^4.2.0",
+    "uuid": "^8.3.2"
+  }
+}
